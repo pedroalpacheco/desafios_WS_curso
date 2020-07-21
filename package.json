@@ -1,0 +1,24 @@
+{
+  "name": "desafios_WS_curso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroalpacheco/desafios_WS_curso.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroalpacheco/desafios_WS_curso/issues"
+  },
+  "homepage": "https://github.com/pedroalpacheco/desafios_WS_curso#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
